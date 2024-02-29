@@ -26,9 +26,10 @@
 - [ ] Iterative methods for linear systems of equations
 	- [ ] Jacobi
 	- [ ] Gauss-Seidel
-	- [ ] Successive over-relaxation
+	- [ ] Successive over-relaxation (SOR)
 - [ ] Nonlinear equations
 	- [ ] Bisection Method
+	- [ ] Secant Method
 	- [ ] Newton-Raphson Method
 	- [ ] Fixed-Point Iteration Method
 
